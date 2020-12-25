@@ -6,7 +6,7 @@
 <summary><samp>whoami</samp></summary>
 
 <pre>
-/(A (Coder|(Software Engineer)|(Web Developer)))|(An AI (Researcher|(Software Engineer)))/gm
+/(A (Coder|(Software Engineer)|(Web Developer)))|(An AI (Researcher|Engineer))/gm
 
 📫 Reach me <a href="https://github.com/ndtho8205/ndtho8205/issues">here</a>
 </pre>
