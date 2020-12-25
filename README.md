@@ -58,19 +58,19 @@
 
 <img
   alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=ndtho8205&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=16A34A&icon_color=10B981&text_color=374151&bg_color=45,F7FEE7,ECFEFF"
+  src="https://ndtho8205-github-stats.vercel.app/api?username=ndtho8205&count_private=true&show_icons=true&custom_title=GitHub+Stats&title_color=16A34A&icon_color=10B981&text_color=374151&bg_color=45,F7FEE7,ECFEFF"
   />
 
 <p>
 <img
   alt="Most Used Languages"
   align="top"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtho8205&langs_count=10&hide=Fortran,CMake,C&layout=compact&title_color=16A34A&text_color=374151&bg_color=ECFEFF"
+  src="https://ndtho8205-github-stats.vercel.app/api/top-langs/?username=ndtho8205&langs_count=10&hide=Fortran,CMake,C&layout=compact&title_color=16A34A&text_color=374151&bg_color=ECFEFF"
   />
 <img
   alt="Wakatime Week Stats"
   align="top"
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=ndtho8205&layout=compact&title_color=16A34A&text_color=374151&bg_color=ECFEFF"
+  src="https://ndtho8205-github-stats.vercel.app/api/wakatime?username=ndtho8205&layout=compact&title_color=16A34A&text_color=374151&bg_color=ECFEFF"
   />
 </p>
 </details>
