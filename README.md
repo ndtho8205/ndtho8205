@@ -75,7 +75,7 @@
 <img
   alt="Wakatime Week Stats"
   align="top"
-  src="https://ndtho8205-github-stats.vercel.app/api/wakatime?username=ndtho8205&layout=compact&hide_border=true&title_color=16A34A&text_color=374151&v=2"
+  src="https://ndtho8205-github-stats.vercel.app/api/wakatime?username=ndtho8205&layout=compact&hide_border=true&title_color=16A34A&text_color=374151"
   />
 </p>
 
