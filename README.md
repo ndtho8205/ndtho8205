@@ -24,14 +24,14 @@
 ![Editor](https://img.shields.io/badge/Editor-Vim-success?style=for-the-badge&logo=vim&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Zsh-success?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-16A34A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-16A34A?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-16A34A?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-16A34A?style=for-the-badge&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-16A34A?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-16A34A?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-16A34A?style=for-the-badge&logo=git&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-16A34A?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-16A34A?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-16A34A?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-16A34A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-16A34A?style=for-the-badge&logo=css3&logoColor=white)
