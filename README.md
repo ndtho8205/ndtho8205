@@ -18,6 +18,8 @@
 <details>
 <summary><samp><strong>tech_stack</strong></samp></summary>
 
+</br>
+
 ![OS](https://img.shields.io/badge/OS-Manjaro-success?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Editor](https://img.shields.io/badge/Editor-Vim-success?style=for-the-badge&logo=vim&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Zsh-success?style=for-the-badge&logo=gnu-bash&logoColor=white)
