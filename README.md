@@ -72,11 +72,11 @@
   align="top"
   src="https://ndtho8205-github-stats.vercel.app/api/top-langs/?username=ndtho8205&langs_count=10&hide=Fortran,CMake,C&layout=compact&hide_border=true&title_color=166534&text_color=374151"
   />
+</p>
 <img
   alt="Wakatime Week Stats"
   align="top"
   src="https://ndtho8205-github-stats.vercel.app/api/wakatime?username=ndtho8205&layout=compact&hide_border=true&title_color=166534&text_color=374151"
   />
-</p>
 
 </details>
